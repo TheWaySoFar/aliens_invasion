@@ -41,3 +41,4 @@ def run_game():
 #main program
 if __name__ == "__main__":
     run_game()
+    print("Test pull request")
