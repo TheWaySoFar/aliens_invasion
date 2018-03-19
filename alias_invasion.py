@@ -38,5 +38,6 @@ def run_game():
             gf.update_aliens(ai_settings,stats,screen,sb,play_button,ship,aliens,bullets)
         gf.update_screen(ai_settings, screen, stats,ship,aliens,bullets,play_button,game_over,sb)
 
+#main program
 if __name__ == "__main__":
     run_game()
